@@ -1,2 +1,1 @@
-# uas20
-# uaspy20-1
+# tugas bhs pemrograman
